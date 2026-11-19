@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack AI",
+  "description": "Higher-education academic planning, coursework orchestration, milestone tracking, and institutional analytics workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
